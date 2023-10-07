@@ -1,0 +1,3 @@
+slowa1.txt: TAK
+slowa2.txt: NIE
+slowa3.txt: TAK
