@@ -1,0 +1,14 @@
+zad 6.1
+najjasniejszy 221
+najciemniejszy 7
+
+zad 6.2
+trza usunać 149
+
+zad 6.3
+kontratują 753
+
+zad 6.4
+najdluzszy 5
+
+
